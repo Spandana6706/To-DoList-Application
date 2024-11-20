@@ -1,0 +1,5 @@
+walk;pending
+Hydrate;pending
+Pay Fees;completed
+Exercise;pending
+Complete Project;pending
